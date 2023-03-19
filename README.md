@@ -1,18 +1,4 @@
-## Boas-vindas!! Eu sou o Gabriel Barboza...
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieibarboza&hide=issues,contribs&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieibarboza&hide=issues,contribs&count_private=true&show_icons=true&include_all_commits=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieIbarboza&langs_count=5&layout=compact&theme=midnight-purple#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieIbarboza&langs_count=5&layout=compact&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
-![Snake animation](https://github.com/gabrieIbarboza/gabrieIbarboza/blob/output/github-contribution-grid-snake.svg)
-
-<!--
-**gabrieIbarboza/GabrieIBarboza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Boas-vindas!! Eu sou o Gabriel Barboza...
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -21,6 +7,32 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+##
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/gabrieIbarboza#gh-dark-mode-only">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieibarboza&hide=issues,contribs&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieIbarboza&langs_count=5&layout=compact&theme=midnight-purple"/>
+  </a>
+</div>
+  
+<div align="center">
+  <a href="https://github.com/gabrieIbarboza#gh-light-mode-only">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieibarboza&hide=issues,contribs&count_private=true&show_icons=true&include_all_commits=true&theme=buefy"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieIbarboza&langs_count=5&layout=compact&theme=buefy"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  
+![Snake animation](https://github.com/gabrieIbarboza/gabrieIbarboza/blob/output/github-contribution-grid-snake.svg)
+
+<!--
+**gabrieIbarboza/GabrieIBarboza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,

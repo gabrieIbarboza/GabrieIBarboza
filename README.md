@@ -1,5 +1,13 @@
 ## Boas-vindas!! Eu sou o Gabriel Barboza...
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieibarboza&hide=issues,contribs&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieibarboza&hide=issues,contribs&count_private=true&show_icons=true&include_all_commits=true&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieIbarboza&langs_count=5&layout=compact&theme=midnight-purple#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieIbarboza&langs_count=5&layout=compact&theme=buefy#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+![Snake animation](https://github.com/gabrieIbarboza/gabrieIbarboza/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **gabrieIbarboza/GabrieIBarboza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -40,7 +48,3 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieibarboza&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
-
-![Snake animation](https://github.com/gabrieibarboza/gabrieObarboza/blob/output/github-contribution-grid-snake.svg)

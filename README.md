@@ -40,7 +40,9 @@
     <img align="center" alt="GB-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="GB-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="GB-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/760228013513637973/1087176274579038268/IMG_20230319_215012_976.png?width=676&height=676">
+    <a href="https://gabrieibarboza.github.io/MyPortfolio/">
+      <img align="right" alt="GabrielBarboza-pic" height="150" src="https://media.discordapp.net/attachments/760228013513637973/1087176274579038268/IMG_20230319_215012_976.png">
+    </a>
   </div>
   
   ##

@@ -26,20 +26,10 @@
 <br/>
 
 <div align="center">
-
   <div style="display: inline_block">
-    <br>
-    <img align="center" alt="GB-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    <img align="center" alt="GB-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="GB-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="GB-Unity" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
-    <img align="center" alt="GB-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-    <img align="center" alt="GB-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-    <img align="center" alt="GB-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-    <img align="center" alt="GB-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-    <img align="center" alt="GB-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-    <img align="center" alt="GB-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="GB-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <a href="[https://skillicons.dev](https://gabrieibarboza.github.io/MyPortfolio/)">
+      <img src="https://skillicons.dev/icons?i=javascript,html,css,mysql,php,cs,vite,react,sass,py,java,ts,git,mongodb,unity" />
+    </a>
     <a href="https://gabrieibarboza.github.io/MyPortfolio/">
       <img align="right" alt="GabrielBarboza-pic" height="150" src="https://media.discordapp.net/attachments/760228013513637973/1087176274579038268/IMG_20230319_215012_976.png">
     </a>
@@ -58,4 +48,4 @@
   
   ![Snake animation](https://github.com/gabrieIbarboza/gabrieIbarboza/blob/output/github-contribution-grid-snake.svg)
   
- </div>
+</div>

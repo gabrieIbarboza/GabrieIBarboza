@@ -1,10 +1,10 @@
 ### Boas-vindas!! Eu sou o Gabriel Barboza...
-- 🔭 Estou em busca da minha primeira vaga na área de análise e desenvolvimento de sistemas;
+- 🔭 Estou mergulhando no Javascript com a Alura;
 - 🌱 Estou estudando ReactJS para desenvolver o site da ONG Anjos da Rua GRU;
 - 💬 Ao falar comigo, assunto sobre músicas, séries e livros não faltará;
 - 📫 E-mail: gabrielrochabarboza@gmail.com
 - 😄 Pronomes: Ele/dele
-- ⚡ Fato legal: Pratico yoga há mais de dois anos e sou vegetariano há um ano.
+- ⚡ Fato legal: Pratico yoga há três anos e sou vegetariano há um!
 ##
 
 <br/>

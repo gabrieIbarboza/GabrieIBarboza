@@ -15,6 +15,7 @@
 <div align="center">
   <a href="https://github.com/gabrieIbarboza#gh-dark-mode-only">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieibarboza&theme=midnight-purple&hide_border=false&background=0d11175c"/>
+    <br/>
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieIbarboza&langs_count=8&layout=compact&theme=midnight-purple&bg_color=0d11175c"/>
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=gabrieibarboza&count_private=true&show_icons=true&include_all_commits=true&theme=midnight-purple&bg_color=0d11175c"/>
   </a>
@@ -23,6 +24,7 @@
 <div align="center">
   <a href="https://github.com/gabrieIbarboza#gh-light-mode-only">
     <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieibarboza&hide_border=false&theme=buefy"/>
+    <br/>
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieIbarboza&langs_count=8&layout=compact&theme=buefy"/>
     <img height="200px" src="https://github-readme-stats.vercel.app/api?username=gabrieibarboza&count_private=true&show_icons=true&include_all_commits=true&theme=buefy"/>
   </a>

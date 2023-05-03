@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=813dd1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+mundo!;Quer+dizer...;Olá,+sou+o+Gabriel+Barboza+👋;Receba+as+minhas+sinceras+boas-vindas!+😉)](https://git.io/typing-svg)
 
 - 🔭 Estou mergulhando no Javascript com a Alura;
-- 🌱 Estou estudando ReactJS para desenvolver o site da ONG Anjos da Rua GRU;
+- 🌱 Estou usando ReactJS para desenvolver o site da ONG Anjos da Rua GRU;
 - 💬 Ao falar comigo, assunto sobre músicas, séries e livros não faltará;
 - 📫 E-mail: gabrielrochabarboza@gmail.com
 - 😄 Pronomes: Ele/dele
@@ -35,7 +35,7 @@
 <div align="center">
   <div style="display: inline_block">
     <a href="[https://skillicons.dev](https://gabrieibarboza.github.io/MyPortfolio/)">
-      <img src="https://skillicons.dev/icons?i=javascript,html,css,mysql,php,cs,vite,react,sass,py,java,ts,git,mongodb,unity" />
+      <img src="https://skillicons.dev/icons?i=javascript,html,css,mysql,php,cs,react,sass,py,java,git,mongodb,unity,azure,figma&perline=8" />
     </a>
     <a href="https://gabrieibarboza.github.io/MyPortfolio/">
       <img align="right" alt="GabrielBarboza-pic" height="150" src="https://media.discordapp.net/attachments/760228013513637973/1087176274579038268/IMG_20230319_215012_976.png">

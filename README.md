@@ -34,8 +34,11 @@
 
 <div align="center">
   <div style="display: inline_block">
-    <a href="[https://skillicons.dev](https://gabrieibarboza.github.io/MyPortfolio/)">
-      <img src="https://skillicons.dev/icons?i=javascript,html,css,mysql,php,cs,react,sass,py,java,git,mongodb,unity,azure,figma&perline=8" />
+    <a href="https://github.com/gabrieIbarboza#gh-dark-mode-only">
+      <img src="https://skillicons.dev/icons?i=javascript,html,css,mysql,php,cs,react,sass,py,java,git,mongodb,unity,azure,figma&perline=8&theme=dark" />
+    </a>
+    <a href="https://github.com/gabrieIbarboza#gh-light-mode-only">
+      <img src="https://skillicons.dev/icons?i=javascript,html,css,mysql,php,cs,react,sass,py,java,git,mongodb,unity,azure,figma&perline=8&theme=light" />
     </a>
     <a href="https://gabrieibarboza.github.io/MyPortfolio/">
       <img align="right" alt="GabrielBarboza-pic" height="150" src="https://media.discordapp.net/attachments/760228013513637973/1087176274579038268/IMG_20230319_215012_976.png">

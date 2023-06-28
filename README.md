@@ -26,20 +26,13 @@
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Figma-F03C2E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
 ### Game Development
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Unity-242938?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a>
-### Learned Something New With...
+### Basic Knowledge
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Prisma-005778?style=for-the-badge&logo=prisma&logoColor=white" target="_blank"></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Firebase-E4B204?style=for-the-badge&logo=firebase&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Python-252F40?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
-<a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-language-394AAB?style=for-the-badge&logo=c&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" target="_blank"></a>
-### Software Testing
-<a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Test Case Design-4A0380?style=for-the-badge&logoColor=white&logo=softwaretesting" target="_blank"></a>
-<a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-End to End Test-AE069E?style=for-the-badge&logoColor=white&logo=softwaretesting" target="_blank"></a>
-<a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Unit Test-B00535?style=for-the-badge&logoColor=white&logo=softwaretesting" target="_blank"></a>
-### Information Security
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Cybersecurity-darkblue?style=for-the-badge&logoColor=white&logo=anonymous" target="_blank"></a>
-### Project Management
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Design Thinking-80407C?style=for-the-badge&logoColor=white&logo=idea" target="_blank"></a>
 <br/>
 

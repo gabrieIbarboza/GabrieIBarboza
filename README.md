@@ -1,8 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=813dd1&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=813dd1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+world!;I+mean...;Hey,+I+am+Gabriel+Barboza+👋;Welcome+to+my+programming+world!+😉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=813dd1&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I+am+Gabriel+Barboza+👋;Welcome+to+my+coding+world!+😉)](https://git.io/typing-svg)
 
 ## Barboza's Skillset
+### Full-stack
+<a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Salesforce-28b6f2?style=for-the-badge&logo=salesforce&logoColor=white" target="_blank"></a>
+<a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Csharp-953CAD?style=for-the-badge&logo=cs&logoColor=white" target="_blank"></a>
 ### Front-end
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-JavaScript-E4B204?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Html-E14E1D?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
@@ -12,9 +15,6 @@
 <a href="https://reactjs.org/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-React-0D9BBA?style=for-the-badge&logo=react&logoColor=white" target="_blank"></a>
 ### Back-end
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-PHP-7479B1?style=for-the-badge&logo=php&logoColor=white" target="_blank"></a>
-<a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Java-CA701F?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
-### Full-stack
-<a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Csharp-953CAD?style=for-the-badge&logo=cs&logoColor=white" target="_blank"></a>
 ### Database
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-MySQL-005F89?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
 ### DevOps
@@ -27,6 +27,7 @@
 ### Game Development
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Unity-242938?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a>
 ### Basic Knowledge
+<a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Java-CA701F?style=for-the-badge&logo=java&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Prisma-005778?style=for-the-badge&logo=prisma&logoColor=white" target="_blank"></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Firebase-E4B204?style=for-the-badge&logo=firebase&logoColor=white" target="_blank"></a>

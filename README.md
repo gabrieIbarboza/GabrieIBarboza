@@ -4,7 +4,7 @@
 
 ## Barboza's Skillset
 ### Full-stack
-<a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Salesforce-28b6f2?style=for-the-badge&logo=salesforce&logoColor=white" target="_blank"></a>
+<a href="https://www.salesforce.com/trailblazer/gabrieibarboza" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Salesforce-28b6f2?style=for-the-badge&logo=salesforce&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Csharp-953CAD?style=for-the-badge&logo=cs&logoColor=white" target="_blank"></a>
 ### Front-end
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-JavaScript-E4B204?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"></a>
@@ -72,14 +72,16 @@
  
   <div>
     <a href="https://www.linkedin.com/in/gabriei-barboza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.salesforce.com/trailblazer/gabrieibarboza" target="_blank"><img src="https://img.shields.io/badge/-Trailhead-green?style=for-the-badge&logo=salesforce&logoColor=white" target="_blank"></a>
     <a href = "mailto:gabrielrochabarboza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/gabrielzklark" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.youtube.com/channel/UCZsa3R7lqbY6M47f8YoVCEg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     <a href="https://wa.me/qr/JXYW66JVJMSQH1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
     <a href="https://www.skoob.com.br/share/user/gabrielklark" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Skoob-blue?style=for-the-badge&logoColor=white&logo=skoobsvg" target="_blank"></a>
   </div>
-  
+  <!--
   ![Snake animation](https://github.com/gabrieIbarboza/gabrieIbarboza/blob/output/github-contribution-grid-snake.svg)
+  -->
   <br/><br/>
   Thanks for taking the time to view my profile, and I hope to hear from you soon!
   

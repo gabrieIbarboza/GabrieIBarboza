@@ -3,9 +3,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=813dd1&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I+am+Gabriel+Barboza+👋;Welcome+to+my+coding+world!+😉)](https://git.io/typing-svg)
 
 ## Barboza's Skillset
-### Full-stack
-<a href="https://www.salesforce.com/trailblazer/gabrieibarboza" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Salesforce-28b6f2?style=for-the-badge&logo=salesforce&logoColor=white" target="_blank"></a>
-<a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Csharp-953CAD?style=for-the-badge&logo=cs&logoColor=white" target="_blank"></a>
+### Salesforce
+<a href="https://www.salesforce.com/trailblazer/gabrieibarboza" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Sales Cloud-28b6f2?style=for-the-badge&logo=salesforce&logoColor=white" target="_blank"></a>
+<a href="https://www.salesforce.com/trailblazer/gabrieibarboza" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Service%20Cloud-d3659d?style=for-the-badge&logo=wrench&logoColor=white" target="_blank"></a>
+<a href="https://www.salesforce.com/trailblazer/gabrieibarboza" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Experience%20Cloud-eb744e?style=for-the-badge&logo=website&logoColor=white" target="_blank"></a>
+<a href="https://www.salesforce.com/trailblazer/gabrieibarboza" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-CRM%20Analytics-004281?style=for-the-badge&logo=tableau&logoColor=white" target="_blank"></a>
+<a href="https://www.salesforce.com/trailblazer/gabrieibarboza" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Communications%20Cloud%20(SFI)-9B3995?style=for-the-badge&logo=signal&logoColor=white" target="_blank"></a>
 ### Front-end
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-JavaScript-E4B204?style=for-the-badge&logo=javascript&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Html-E14E1D?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
@@ -29,10 +32,11 @@
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Figma-F03C2E?style=for-the-badge&logo=figma&logoColor=white" target="_blank"></a>
 ### Game Development
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Unity-242938?style=for-the-badge&logo=unity&logoColor=white" target="_blank"></a>
-### Essentials Knowledge
+### Little Experience
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Prisma-005778?style=for-the-badge&logo=prisma&logoColor=white" target="_blank"></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-MongoDB-023430?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Firebase-E4B204?style=for-the-badge&logo=firebase&logoColor=white" target="_blank"></a>
+<a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Csharp-953CAD?style=for-the-badge&logo=cs&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Cybersecurity-darkblue?style=for-the-badge&logoColor=white&logo=anonymous" target="_blank"></a>
 <a href="#" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/-Design Thinking-80407C?style=for-the-badge&logoColor=white&logo=idea" target="_blank"></a>
@@ -65,7 +69,7 @@
       <img src="https://skillicons.dev/icons?i=javascript,html,css,mysql,php,cs,react,sass,py,java,git,mongodb,unity,azure,figma&perline=8&theme=light" />
     </a>-->
     <a href="https://gabrieibarboza.github.io/MyPortfolio/">
-      <img align="right" alt="GabrielBarboza-pic" height="150" src="https://media.discordapp.net/attachments/760228013513637973/1087176274579038268/IMG_20230319_215012_976.png">
+      <img align="right" alt="Gabriel Barboza Picture" height="150" src="https://raw.githubusercontent.com/gabrieIbarboza/GabrieIBarboza/refs/heads/main/me_animated.jpg">
     </a>
   </div>
   
